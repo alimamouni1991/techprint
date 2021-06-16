@@ -1,0 +1,30 @@
+#nav-fluid-logo-menu-btn-2 {
+	background: transparent;
+}
+
+#nav-fluid-logo-menu-btn-2 .nav-bg {
+	background: #000000;
+	opacity: 0.85;
+}#header-slogan-text-btn {
+    background: #222222;
+}
+
+#header-slogan-text-btn .bg {
+    background-image: url('../images/bg-15.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.15;
+}#video-text-btn {
+    background: #222222;
+}#footer-list-banner {
+    background: #222222;
+}
+
+#footer-list-banner .bg {
+    background-image: url('../images/bg-15.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.05;
+}

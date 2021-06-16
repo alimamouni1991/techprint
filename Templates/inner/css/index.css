@@ -1,0 +1,27 @@
+#header-slogan-btn{
+	background: #2b356f;
+}
+#header-slogan-btn .bg {
+	background-image: url('../images/bg-11.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.1;
+}/*----------------------------------------------------------------------------------------
+										WIDGET STYLES
+----------------------------------------------------------------------------------------*/
+
+.widget {
+    margin-bottom: 50px;
+}
+
+.widget ul.post-list>li{
+    margin-bottom: 20px;
+}
+
+.widget .post-list .post-desc{
+    padding-top: 5px;
+    opacity: 0.7;
+}

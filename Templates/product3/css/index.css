@@ -1,0 +1,18 @@
+#header-carousel-single {
+	background: linear-gradient(135deg, #000000, #00c0ff);
+}
+
+#header-carousel-single .bg {
+	background-image: url('../images/bg-wood-5.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.25;
+}
+#subscribe-field-text {
+	background: #eeeeee;
+}#footer-text-logo-btn {
+	background: #222222;
+}

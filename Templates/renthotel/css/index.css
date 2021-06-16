@@ -1,0 +1,25 @@
+#header-center-slogan-form-2 {
+    background: #000000;
+}
+
+#header-center-slogan-form-2 .bg {
+    background-image: url('../images/bg-nature-4.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 0.85;
+}#benefit-quartbg-2col .quarter-container-left {
+    background-image: url('../images/bg-nature-1.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity:1;
+}#contact-quartbg-form-text .quarter-container-left {
+    background-image: url('../images/bg-wood-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}#footer-fluid-img-list-subscribe {
+    background: #545351;
+}

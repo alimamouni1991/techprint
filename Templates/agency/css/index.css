@@ -1,0 +1,21 @@
+#nav-fluid-menu-social .nav-bg {
+    opacity:0.95;
+}#header-center-logo-slogan .bg {
+    background-image: url('../images/bg-12.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.075;
+}#video-center-text{
+    background: #f8f9fb;
+}
+
+#video-center-text .bg {
+    background-image: url('../images/bg-13.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.15;
+}#contact-center-form {
+    background: #f8f9fb;
+}

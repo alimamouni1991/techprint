@@ -1,0 +1,23 @@
+#header-img-slogan-videobg .bg {
+    opacity:0.2;
+}#desc-halfbg-text-btn-2 {
+	background: #f0f2f6;
+}
+
+#desc-halfbg-text-btn-2 .half-container-left {
+    background-image: url('../images/browser-windows.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity: 1;
+}span.icons-row [class^=icon-star] {
+    color: #ffd800;
+}
+#action-text-btn-img .bg {
+    background-image: url('../images/bg-10.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.15;
+}#footer-social-logo {
+    background: #f8f9fb;
+}

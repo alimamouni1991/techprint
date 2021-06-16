@@ -1,0 +1,51 @@
+#header-slogan-form-2 {
+	background: linear-gradient(135deg, #ff9300, #ff2c76);
+}
+
+#header-slogan-form-2 .bg {
+	background-image: url('../images/bg-city-5.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom center;
+	opacity: 0.15;
+}#desc-img-text-3col-3 .bg {
+    background-image: url('../images/bg-pattern-4.png');
+	background-size: 50px 50px;
+	-webkit-background-size: 50px 50px;
+	background-repeat: repeat-y;
+	-webkit-background-repeat: repeat-y;
+	background-position: top right;
+	opacity: 1;
+}
+#desc-quartbg-text-btn {
+    background: linear-gradient(135deg, #ff9300, #ff2c76);
+    background: -webkit-linear-gradient(315deg, #ff9300, #ff2c76);
+}
+
+#desc-quartbg-text-btn .bg {
+    background-image: url('../images/bg-abstract-1.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    opacity: 0.03;
+}
+#desc-quartbg-text-btn .quarter-container-left {
+    background-image: url('../images/bg-city-4.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}#testimonials-4col-icons .bg {
+	background-image: url('../images/bg-city-4.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.05;
+}#footer-text-icon-share {
+    background: linear-gradient(135deg, #ff9300, #ff2c76);
+    background: -webkit-linear-gradient(315deg, #ff9300, #ff2c76);
+}

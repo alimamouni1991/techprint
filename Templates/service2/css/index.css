@@ -1,0 +1,20 @@
+#nav-fluid-canvas .nav-bg {
+ 	opacity: 1;
+}
+
+
+#header-center-slogan-img-videobg .bg {
+    opacity:0.2;
+}#gallery-carousel-single .bg {
+    background-image: url('../images/bg-scene-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:1;
+}#testimonials-carousel-single .bg {
+    background-image: url('../images/bg-5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.25;
+}

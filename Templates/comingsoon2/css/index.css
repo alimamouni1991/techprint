@@ -1,0 +1,34 @@
+#header-img-timer .bg {
+    background-image: url('../images/bg-city-4.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.1;
+}
+
+
+#desc-text-btn-img-anim-2 .bg {
+	background-image: url('../images/bg-pattern-1.png');
+	background-size: 300px auto;
+	-webkit-background-size: 300px auto;
+	background-repeat: repeat;
+	-webkit-background-repeat: repeat;
+	background-position: center center;
+	opacity: 0.08;
+}
+#desc-img-anim-text-btn .bg {
+	background-image: url('../images/bg-modal-success.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.15;
+}
+
+
+#footer-text-img-btn {
+	background: #3c3e79;
+}

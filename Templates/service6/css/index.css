@@ -1,0 +1,26 @@
+#benefit-fluid-4col {
+	background: linear-gradient(135deg, #937db2, #5dc5e7);
+    background: -webkit-linear-gradient(315deg, #937db2, #5dc5e7);
+}#gallery-full-list-4col-quartbg {
+    background: #eeeeee;
+}
+
+#gallery-full-list-4col-quartbg .quarter-container-right {
+    background-image: url('../images/bg-wood-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+#clients-5col {
+    background: #f8f9fb;
+}#contact-halfbg-form .half-container-left {
+    background-image: url('../images/bg-laptop-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}#footer-fluid-list-text {
+    background: linear-gradient(135deg, #937db2, #5dc5e7);
+    background: -webkit-linear-gradient(315deg, #937db2, #5dc5e7);
+}

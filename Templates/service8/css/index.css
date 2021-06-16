@@ -1,0 +1,40 @@
+.nav-bg-color {
+	background: #8565cc;
+}#nav-logo-2row-2 .nav-bg {
+	background: #8565cc;
+	opacity: 1;
+}#header-logo-slogan-cards {
+	background: linear-gradient(135deg, #8253eb, #ffc857);
+}
+
+#header-logo-slogan-cards .bg {
+	background-image: url('../images/bg-devices-1.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.15;
+}
+
+
+
+
+#desc-text-btn-img-anim {
+	background: linear-gradient(135deg, #8565cc, #ffc857);
+}
+
+
+#footer-list-text {
+	background: linear-gradient(135deg, #8253eb, #ffc857);
+}
+
+#footer-list-text .bg {
+	background-image: url('../images/bg-wood-2.jpg');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.25;
+}

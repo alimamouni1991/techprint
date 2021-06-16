@@ -1,0 +1,41 @@
+
+#header-center-timer {
+	background: #758cfd;
+}
+#header-center-timer .bg {
+	background-image: url('../images/bg-laptop-2.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.05;
+}
+#popup-form-halfbg .half-container-right {
+	background-image: url('../images/bg-modal-success.jpg');
+	background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+
+#desc-center-img-anim-text-btn {
+	background: #f4f6ff;
+}
+#clients-carousel-3 {
+	background: #758cfd;
+}
+
+#clients-carousel-3 .bg {
+	background-image: url('../images/bg-blur-2.jpg');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.05;
+}#desc-tabs {
+	background: #f8f9fb;
+}#footer-center-social-logo {
+	background: #758cfd;
+}

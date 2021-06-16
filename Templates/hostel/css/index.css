@@ -1,0 +1,32 @@
+#header-center-slogan-form-3 {
+    background: linear-gradient(135deg, #e1fcff, #ffffff);
+    background: -webkit-linear-gradient(315deg, #e1fcff, #ffffff);
+}
+
+#header-center-slogan-form-3 .bg {
+    background-image: url('../images/bg-room-1.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    opacity: 0.25;
+}span.icons-row [class^=icon-star] {
+    color: #ffd800;
+}
+
+#testimonials-list-stars {
+    background: linear-gradient(to bottom, #ffffff, #f0f6f7);
+    background: -webkit-linear-gradient(top, #ffffff, #f0f6f7);
+}
+
+#testimonials-list-stars .bg {
+    background-image: url('../images/bg-27.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-repeat: no-repeat;
+    background-position: bottom center;
+    opacity: 1;
+}
+#footer-text-logo-btn {
+    background: #768190;
+}

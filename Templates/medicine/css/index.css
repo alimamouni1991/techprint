@@ -1,0 +1,22 @@
+#header-halfbg-slogan .half-container-left {
+    background-image: url('../images/doctor.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: cover;
+}#action-btn-text {
+    background: #e9fbff;
+}#action-text-phone {
+    background: #f8f9fb;
+}
+
+#action-text-phone .bg {
+    background-image: url('../images/bg-6.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.75;
+}#contact-form-map {
+    background: #e9fbff;
+}

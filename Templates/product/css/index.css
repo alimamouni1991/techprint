@@ -1,0 +1,29 @@
+#header-slogan-modal-2 .bg {
+    background-image: url('../images/bg-7.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:1;
+}#desc-halfbg-text-btn .half-container-left {
+    background-image: url('../images/bg-9.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity:1;
+}#desc-text-btn-halfbg{
+    background: #f8f9fb;
+}
+
+#desc-text-btn-halfbg .half-container-right {
+    background-image: url('../images/bg-8.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    opacity:1;
+}#subscribe-field-discount .bg {
+    background-image: url('../images/bg-5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.25;
+}

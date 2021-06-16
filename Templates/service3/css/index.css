@@ -1,0 +1,28 @@
+#nav-fluid-logo-menu-btn .nav-bg {
+ 	opacity: 0.85;
+}
+#header-center-subscribe-img {
+    background: #e9fbff;
+}
+
+#header-center-subscribe-img .bg {
+    background-image: url('../images/bg-12.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.1;
+}
+
+#action-text-videobg .bg {
+	opacity: 0.15;
+}#price-single{
+    background: #e9fbff;
+}
+
+#price-single .bg {
+    background-image: url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.2;
+}

@@ -1,0 +1,24 @@
+#header-slogan-form {
+    background: linear-gradient(to bottom, #887ab9, #72c9ff);
+    background: -webkit-linear-gradient(top, #887ab9, #72c9ff);
+}
+
+#header-slogan-form .bg {
+    background-image: url('../images/bg-laptop-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 0.1;
+}#action-center-text-btn {
+	background: linear-gradient(135deg, #72c9ff, #887ab9);
+}
+
+#action-center-text-btn .bg {
+	background-image: url('../images/bg-13.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.1;
+}

@@ -1,0 +1,32 @@
+#header-slogan-halfbg {
+	background: #f0f1f5;
+}
+
+#header-slogan-halfbg .bg {
+	background-image: url('../images/bg-pattern-1.png');
+	background-size: 300px auto;
+	-webkit-background-size: 300px auto;
+	background-repeat: repeat;
+	-webkit-background-repeat: repeat;
+	background-position: center center;
+	opacity: 0.05;
+}
+
+#header-slogan-halfbg .half-container-right {
+    background-image: url('../images/mockup-apple-devices@2x.png');
+    background-size: cover;
+}#testimonials-carousel-single-2 {
+	background: #f0f1f5;
+}#footer-list-logo {
+	background: #f0f1f5;
+}
+
+#footer-list-logo .bg {
+	background-image: url('../images/bg-6.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.3;
+}

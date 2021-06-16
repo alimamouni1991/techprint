@@ -1,0 +1,28 @@
+
+.nav-bg-color {
+	background: #222222;
+}
+#nav-center-menu-logo-btn {
+    background: transparent;
+}
+#nav-center-menu-logo-btn .nav-bg {
+	background: #222222;
+	opacity: 1;
+}/*----------------------------------------------------------------------------------------
+										WIDGET STYLES
+----------------------------------------------------------------------------------------*/
+
+.widget {
+    margin-bottom: 50px;
+}
+
+.widget ul.post-list>li{
+    margin-bottom: 20px;
+}
+
+.widget .post-list .post-desc{
+    padding-top: 5px;
+    opacity: 0.7;
+}#footer-logo-social {
+    background: #222222;
+}

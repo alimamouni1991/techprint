@@ -1,0 +1,32 @@
+
+.nav-bg-color {
+	background: #7061b0;
+}
+
+#nav-logo-2row .nav-bg {
+	background: #7061b0;
+	opacity: 1;
+}
+#header-center-logo-slogan-img {
+	background: #5847a0;
+}
+
+#header-center-logo-slogan-img .bg {
+	opacity: 0.15;
+}#counter-fluid-6col {
+	background: linear-gradient(135deg, #7061b0, #6d82e1);
+}#desc-card-3col {
+	background: #7061b0;
+}
+
+#desc-card-3col .bg {
+	background-image: url('../images/bg-laptop-1.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.05;
+}#footer-list-subscribe-2{
+	background: #7061b0;
+}
